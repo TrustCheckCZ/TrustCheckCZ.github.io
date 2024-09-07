@@ -17,8 +17,8 @@ These claims have been out for **YEARS** and yet people still use their services
 Platforms like Zoom and Teams have been criticized for their invasive data collection practices. Not only do they collect extensive metadata, but they also offer administrators powerful monitoring capabilities, making it easy for your boss or meeting host to access your chat messages, calls, and files shared during meetings.
 
 Sources:
-1. https://medium.com/@Teamflect/your-boss-can-read-your-chat-messages-in-microsoft-teams-f0c57ec1842f
-2. https://www.timewatch.com/blog/can-my-boss-spy-on-me-via-microsoft-teams
+1. <a href="https://medium.com/@Teamflect/your-boss-can-read-your-chat-messages-in-microsoft-teams-f0c57ec1842f">medium.com</a>
+2. <a href="https://www.timewatch.com/blog/can-my-boss-spy-on-me-via-microsoft-teams">timewatch.com</a>
 
 ### Switch to Jam: A Privacy-Focused Alternative
 
