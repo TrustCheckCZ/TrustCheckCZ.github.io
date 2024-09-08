@@ -59,6 +59,3 @@ The RAMBO attack highlights the growing sophistication of side-channel attacks o
 
 ---
 
-**Related Articles:**
-
-- [Linux Kernel Vulnerability: New SLUBStick Cross-Cache Attack](#)
