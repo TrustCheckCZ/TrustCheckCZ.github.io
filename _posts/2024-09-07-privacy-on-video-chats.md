@@ -40,4 +40,4 @@ It’s built with privacy at the forefront, ensuring that your communication rem
 
 To illustrate the extent of Microsoft, keep in mind they store voice and train AI on your face!
 
-![Microsoft is Evil](https://raw.githubusercontent.com/TrustCheckCZ/TrustCheckCZ.github.io/main/_images/microsoft_is_evil.webp)
+![Microsoft is Evil](/assets/images/microsoft_is_evil.webp)
