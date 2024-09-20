@@ -23,3 +23,4 @@ Thumbs.db
 
 # Temp Python Files
 *.py
+/test_data
