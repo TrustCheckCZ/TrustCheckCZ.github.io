@@ -46,7 +46,7 @@ Even privacy-focused platforms like Signal, Telegram, or Proton require a phone 
 - US (California-based): [mobilesms.io](https://mobilesms.io)
 - Germany-based: [sms77.io](https://sms77.io)
 - Russia-based: [onlinesim.ru](https://onlinesim.ru)
-- Russia-based: [5sim.ru](https://5sim.ru)
+- Russia-based: ~~[5sim.ru](https://5sim.ru)~~ [5sim.net](https://5sim.net)
 
 ## No Money?
 If you’re low on money and can’t afford a SIM card, you’ll need to rely on free services. **This is highly discouraged**, as you can’t trust these services and there's a high chance that your data will be sold or tracked.
