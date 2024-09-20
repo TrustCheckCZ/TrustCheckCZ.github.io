@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "How 'log' channels are taking over Telegram"  
+title: "How log clouds are taking over Telegram"  
 categories:  
 - privacy  
 - piccioni  
@@ -78,6 +78,18 @@ Further analysis showed:
 ### 5. Impact of the Leak
 Given the large number of new, never-before-seen combinations, this leak represents a significant addition to the pool of compromised credentials.  
 The presence of weak passwords and popular email domains means that this data is highly exploitable, posing risks for credential stuffing attacks, identity theft, and more.
+
+## Dataset Analysis
+To facilitate the analysis of the leaked data, we developed a lightweight Python utility that scans the dataset and visualizes key distributions such as password complexity and domain patterns. You can find the tool on GitHub:  
+[log-analysis utility](https://github.com/JStuborn/log-analysis/tree/main)
+
+### Usage Instructions:
+1. Move all data files to the `./data` directory.
+2. Run the script with the following command:
+   ```bash
+   python main.py
+    ```
+This utility automates the analysis process, making it easier to gain insights into the leaked data without manual intervention.
 
 ## Conclusion
 
