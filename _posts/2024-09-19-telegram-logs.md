@@ -20,7 +20,7 @@ Several key players have emerged within these underground spaces, including but 
 
 These platforms often operate on **Telegram**, where they offer logs for sale or trade, catering to the needs of those involved in malicious cyber activities. Below, we'll dive deeper into one of these clouds: **Piccioni**.
 
-### 1. TXT Cloud**
+### 1. TXT Cloud
 
 TXT Cloud is one of the most prominent **Telegram-based log clouds**, widely recognized for its community-driven pricing model. It markets itself as a blend of **public and private log access**, offering large volumes of stolen credentials at relatively low prices, making it a popular destination in the underground world.
 
