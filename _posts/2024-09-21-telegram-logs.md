@@ -1,13 +1,11 @@
 ---
-layout: post  
-title: "How log clouds are taking over Telegram"  
-categories:  
-- privacy  
-- piccioni  
-- logs  
-- leaks  
-author:  
-- The Trust Check Team  
+layout: post
+title: "How Telegram log clouds are used to expose weak common passwords"
+categories: 
+- privacy
+- logs
+author:
+- The Trust Check Team
 ---
 
 Lately, there's been a noticeable rise in the use of so-called "log clouds"—platforms that aggregate stolen data, including **device logins**, which contain sensitive information such as URLs, usernames, and passwords. These platforms are becoming increasingly popular within underground communities due to their accessibility and the sheer volume of data they provide.
