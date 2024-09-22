@@ -10,7 +10,6 @@ author:
 
 ![DivestOS](https://divestos.org/images/Tri_Mako-By_Victor_Stuber-Small.png)
 
-ac6-2406366004.gif
 In today’s connected world, privacy and security are two of the most valuable commodities for mobile users. Yet, many mainstream operating systems fall short in fully protecting users from unwanted tracking, data breaches, and vulnerabilities. This is where privacy-centric platforms like DivestOS shine, offering a breath of fresh air to users who prioritize security over convenience. Along with new features like an EXIF-Free Camera, Live CVE Patching, and Integrated Virus Scanning, solutions like DivestOS are revolutionizing the landscape of secure mobile systems.
 
 ## What is DivestOS?
