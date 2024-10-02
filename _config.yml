@@ -6,8 +6,8 @@ author:
 description: >
   A small blog about personal security and privacy, helping you safeguard your data and keep your online presence secure.
 
-theme: minima
-#remote_theme: jekyll/minima
+# theme: minima
+remote_theme: "jeffreytse/jekyll-theme-yat"
 
 plugins:
   - jekyll-feed
@@ -20,13 +20,13 @@ defaults:
   - scope:
       path: ""
     values:
-      og:title: "Privacy ToGo"
-      og:description: "Tips and insights on personal security and privacy."
+      og:title: "TrustCheck.CZ"
+      og:description: "A blog to guide you on securing your personal privacy and data."
       og:image: "/assets/images/banner.png"  # Ensure you have this image for previews
       og:type: "website"
       og:url: "https://blog.trustcheck.cz/"
       twitter:card: "summary_large_image"
-      twitter:title: "Privacy ToGo"
+      twitter:title: "TrustCheck.CZ"
       twitter:description: "A blog to guide you on securing your personal privacy and data."
       twitter:image: "/assets/images/banner.png"  # Same image for Twitter cards
 
